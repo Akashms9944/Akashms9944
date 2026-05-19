@@ -1,52 +1,40 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
-<h3 align="center">Full Stack Developer | Open Source Enthusiast</h3>
+# Hi 👋, I'm Akash
 
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> •
-  <a href="https://twitter.com/yourhandle">Twitter</a> •
-  <a href="https://yourportfolio.com">Portfolio</a>
-</p>
+## AWS Cloud & Linux Enthusiast
+
+I am an aspiring Cloud Engineer with skills in AWS, Linux, Git, and basic DevOps tools. I enjoy building cloud projects and learning real-time infrastructure concepts.
 
 ---
 
-### 🚀 About Me
-- 🔭 Currently working on: Your Project
-- 🌱 Learning: AI / Cloud / DevOps
-- 👯 Open to collaboration
-- 💬 Ask me about React, Node.js, Python
-- ⚡ Fun fact: Coffee-powered developer ☕
+## 🚀 Skills
+- AWS: EC2, S3, IAM, VPC, Auto Scaling, Load Balancer
+- Linux: Ubuntu, Shell Commands, Cron Jobs
+- Basics: Networking, Cloud Computing
 
 ---
 
-### 🛠 Tech Stack
+## 📌 Projects
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+### 🔹 Linux Log Analyzer
+- Automated log monitoring using Linux commands
+- Extracted failed login attempts
+- Generated structured reports using shell scripting
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" />
-</p>
+### 🔹 Dynamic Website Hosting with Auto Scaling & Load Balancing
+- Hosted a dynamic website using AWS EC2 instances
+- Configured Application Load Balancer for traffic distribution
+- Implemented Auto Scaling Group for high availability
+- Improved uptime and scalability during traffic spikes
+- Secured instances using Security Groups and IAM roles
 
 ---
 
-### 📌 Featured Projects
-
-- 🚀 [Project One](https://github.com/yourusername/project1)
-- 📱 [Project Two](https://github.com/yourusername/project2)
-- 🤖 [Project Three](https://github.com/yourusername/project3)
+## 📫 Connect with me
+- LinkedIn: www.linkedin.com/in/makashlin
+- GitHub: https://github.com/Akash
+- Email: m.s.akash9944@gmail.com
 
 ---
 
-### 📫 Connect With Me
-- Email: your@email.com
-- Portfolio: https://yourportfolio.com
+## 🎯 Career Goal
+To start my career as an AWS Cloud Engineer and grow into a DevOps/Cloud Infrastructure role.
