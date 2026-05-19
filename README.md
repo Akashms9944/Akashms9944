@@ -31,7 +31,7 @@ I am an aspiring Cloud Engineer with skills in AWS, Linux, Git, and basic DevOps
 
 ## 📫 Connect with me
 - LinkedIn: www.linkedin.com/in/makashlin
-- GitHub: https://github.com/Akash
+- GitHub: [https://github.com/Akash](https://github.com/repos?q=owner%3A%40me)
 - Email: m.s.akash9944@gmail.com
 
 ---
