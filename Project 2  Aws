@@ -1,6 +1,0 @@
-2.	Dynamic Website Hosting with Auto Scaling and Load Balancing (AWS)
-•	Designed and deployed a scalable dynamic web application on AWS using EC2, Auto Scaling, and Load Balancer.
-•	Configured Elastic Load Balancer to distribute incoming traffic across multiple EC2 instances for high availability.
-•	Deployed Auto Scaling policies to improve application availability and performance.
-•	Hosted the application within a secure VPC environment ensuring fault tolerance and reliability.
-•	Improved application performance and uptime using cloud-native architecture best practices.
