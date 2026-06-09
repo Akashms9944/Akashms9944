@@ -1,6 +1,0 @@
-1.	Linux Log Analyzer (Ubuntu)
-•	Developed an Ubuntu-based log analyzer tool to monitor system logs and detect security-related events.
-•	Analyzed /var/log/auth.log and /var/log/syslog using Python and Bash scripting.
-•	Implemented Cron Job automation for scheduled log analysis without manual intervention.
-•	Extracted failed login attempts and system errors using regex and Linux command-line tools.
-•	Generated structured reports to enhance system monitoring and troubleshooting efficiency.
