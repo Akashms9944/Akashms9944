@@ -1,40 +1,46 @@
-# Hi 👋, I'm Akash
+# Hi, I'm [Akash] 👋
 
-## AWS Cloud & Linux Enthusiast
+## AWS DevOps Engineer
 
-I am an aspiring Cloud Engineer with skills in AWS, Linux, Git, and basic DevOps tools. I enjoy building cloud projects and learning real-time infrastructure concepts.
+Passionate AWS DevOps Engineer with hands-on experience in cloud infrastructure, CI/CD automation, containerization, and monitoring. Skilled in building scalable, secure, and automated deployment pipelines using modern DevOps tools and AWS services.
 
----
+### 🚀 Technical Skills
 
-## 🚀 Skills
-- AWS: EC2, S3, IAM, VPC, Auto Scaling, Load Balancer
-- Linux: Ubuntu, Shell Commands, Cron Jobs
-- Basics: Networking, Cloud Computing
+- ☁️ AWS: EC2, S3, IAM, VPC, RDS, ELB, Auto Scaling, CloudWatch
+- 🔄 CI/CD: Jenkins, GitHub Actions, AWS CodePipeline
+- 🐳 Containers: Docker, Kubernetes (EKS)
+- 🖥️ Version Control: Git, GitHub
+- 📜 Scripting: Bash Shell Scripting
+- 🏗️ Infrastructure as Code: CloudFormation
+- 📊 Monitoring: Prometheus, Grafana, CloudWatch
+- ⚙️ Configuration Management: Ansible
+- 🐧 Operating System: Linux
 
----
+### 📂 Projects
 
-## 📌 Projects
+#### CI/CD Pipeline Automation
+- Automated application deployment using Jenkins, Docker, and GitHub.
+- Implemented continuous integration and continuous delivery workflows.
+- Reduced manual deployment effort through automation.
 
-### 🔹 Linux Log Analyzer
-- Automated log monitoring using Linux commands
-- Extracted failed login attempts
-- Generated structured reports using shell scripting
+#### Dynamic Website Hosting on AWS
+- Hosted scalable web applications using EC2, Load Balancer, and Auto Scaling.
+- Improved availability and fault tolerance of applications.
 
-### 🔹 Dynamic Website Hosting with Auto Scaling & Load Balancing
-- Hosted a dynamic website using AWS EC2 instances
-- Configured Application Load Balancer for traffic distribution
-- Implemented Auto Scaling Group for high availability
-- Improved uptime and scalability during traffic spikes
-- Secured instances using Security Groups and IAM roles
+#### Linux Log Analyzer
+- Developed shell scripts to monitor and analyze Linux system logs.
+- Generated automated reports for troubleshooting and monitoring.
 
----
+### 🎓 Education
+**B.E. Electrical and Electronics Engineering**  
+Stella Mary's College of Engineering
 
-## 📫 Connect with me
-- LinkedIn: www.linkedin.com/in/makashlin
-- GitHub: [https://github.com/Akash](https://github.com/repos?q=owner%3A%40me)
-- Email: m.s.akash9944@gmail.com
+### 📜 Certifications
+- AWS & DevOps Training
+- Linux Administration Training
 
----
+### 📫 Connect With Me
+- GitHub: https://github.com/yourusername
+- LinkedIn: https://linkedin.com/in/yourprofile
 
-## 🎯 Career Goal
-To start my career as an AWS Cloud Engineer and grow into a DevOps/Cloud Infrastructure role.
+⭐ Always learning and exploring Cloud & DevOps technologies.
