@@ -1,4 +1,4 @@
-# Hi, I'm [Akash] 👋
+# Hi, I'm Akash 👋
 
 ## AWS DevOps Engineer
 
@@ -36,11 +36,11 @@ Passionate AWS DevOps Engineer with hands-on experience in cloud infrastructure,
 Stella Mary's College of Engineering
 
 ### 📜 Certifications
-- AWS & DevOps Training
-- Linux Administration Training
+- AWS & DevOps Certified
+- Linux Administration 
 
 ### 📫 Connect With Me
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
+- GitHub: https://github.com/Akashms9944
+- LinkedIn: https://linkedin.com/in/makashlin
 
 ⭐ Always learning and exploring Cloud & DevOps technologies.
