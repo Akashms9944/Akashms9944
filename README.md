@@ -44,5 +44,5 @@ Stella Mary's College of Engineering
 - LinkedIn: https://linkedin.com/in/makashlin
 
 ⭐ Always learning and exploring Cloud & DevOps technologies.
-[🔗 Akash](https://akashms9944.github.io/portfolio/)
+[Akash](https://akashms9944.github.io/portfolio/)
 [🔗](https://www.linkedin.com/in/makashlin)
